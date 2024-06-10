@@ -18,7 +18,7 @@ Welcome
 <br/>
 <div>
  <img width=35% align='left'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanlopes&layout=compact&langs_count=7&theme=react&hide_border=true">
- <img width=55% align='right'  src="https://github-readme-stats.vercel.app/api?username=nayanlopes&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true">
+ <img width=55% align='right'  src="https://github-readme-stats.vercel.app/api?username=nayanlopes&show_icons=true&theme=react&count_private=true&hide_border=true">
 </div>
 
 <br/>
