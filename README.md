@@ -7,7 +7,7 @@ Welcome
 <img  src="https://img.shields.io/static/v1?label=Overview&message=Vitor Nayan&color=5ED7F2&style=for-the-badge&logo=GitHub">
 
 <p>
-  i'm about to kms
+  i'm dont know how to talk about me
 </p>
 
 <br/>
