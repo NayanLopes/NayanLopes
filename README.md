@@ -17,8 +17,8 @@ Welcome
 ## 📈 My stats
 <br/>
 <div>
- <img width=35% align='left'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapollon&layout=compact&langs_count=7&theme=react&hide_border=true">
- <img width=55% align='right'  src="https://github-readme-stats.vercel.app/api?username=brunoapollon&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true">
+ <img width=35% align='left'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanlopes&layout=compact&langs_count=7&theme=react&hide_border=true">
+ <img width=55% align='right'  src="https://github-readme-stats.vercel.app/api?username=nayanlopes&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true">
 </div>
 
 <br/>
@@ -54,10 +54,3 @@ Welcome
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 🎵🔊 What am i listening to 
-
- 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ageebx3wf222vurlerbic9wtd&cover_image=true&theme=default&bar_color=5ed7f2)](https://spotify-github-profile.vercel.app/api/view?uid=ageebx3wf222vurlerbic9wtd&redirect=true)
-
-
