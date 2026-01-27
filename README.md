@@ -4,7 +4,6 @@ Welcome
 
 ## About me
 <p>
-<img  src="https://img.shields.io/static/v1?label=Overview&message=Vitor Nayan&color=5ED7F2&style=for-the-badge&logo=GitHub">
 
 <p>
   Hi! I'm Vitor Nayan, a 21-year-old Software Engineering student passionate about coding and technology. Currently diving into cloud technologies, web development, and Salesforce. Always eager to learn and contribute!
