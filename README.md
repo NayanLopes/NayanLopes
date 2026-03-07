@@ -3,31 +3,18 @@ Welcome
 </h1>
 
 ## About me
-<p>
 
 <p>
   Hi! I'm Vitor Nayan, a 21-year-old Software Engineering student passionate about coding and technology. Currently diving into cloud technologies, web development, and Salesforce. Always eager to learn and contribute!
 </p>
 
-<br/>
-</p>
-
-
 ## 📈 My stats
-<br/>
-<div>
- <img width=35% align='left'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanlopes&layout=compact&langs_count=7&theme=react&hide_border=true">
- <img width=55% align='right'  src="https://github-readme-stats.vercel.app/api?username=nayanlopes&show_icons=true&theme=react&count_private=true&hide_border=true">
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayanlopes&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Vitor Nayan"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanlopes&layout=compact&langs_count=7&theme=radical&hide_border=true" alt="Linguagens mais usadas por Vitor Nayan"/>
 </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 ## 🔧 My skills and tools
