@@ -11,7 +11,6 @@ Welcome
 ## 📈 My stats
 
 [![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=nayanlopes&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/nayanlopes)
-
 [![Top Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nayanlopes&layout=compact&langs_count=7&theme=radical&hide_border=true)](https://github.com/nayanlopes)
 
 <br/>
