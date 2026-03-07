@@ -5,7 +5,7 @@ Welcome
 ## About me
 
 <p>
-  Hi! I'm Vitor Nayan, a 21-year-old Software Engineering student passionate about coding and technology. Currently diving into cloud technologies, web development, and Salesforce. Always eager to learn and contribute!
+  Hi! I'm Vitor Nayan, a 22-year-old Software Engineering student passionate about coding and technology. Currently diving into cloud technologies, web development, and Salesforce. Always eager to learn and contribute!
 </p>
 
 ## 📈 My stats
