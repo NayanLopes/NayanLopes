@@ -10,10 +10,9 @@ Welcome
 
 ## 📈 My stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayanlopes&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Vitor Nayan"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanlopes&layout=compact&langs_count=7&theme=radical&hide_border=true" alt="Linguagens mais usadas por Vitor Nayan"/>
-</div>
+[![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=nayanlopes&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/nayanlopes)
+
+[![Top Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nayanlopes&layout=compact&langs_count=7&theme=radical&hide_border=true)](https://github.com/nayanlopes)
 
 <br/>
 
